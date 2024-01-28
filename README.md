@@ -1,6 +1,7 @@
-# Práctica 1
+# Práctica 1: ENTORNO DE DESARROLLO
+## Juan de Egaña Marín 
 
-Un repositorio para empezar a usar [git](https://git-scm.com/) y Github
+El objetivo de esta práctica es el de preparar el equipo del alumno para poder hacer las futuras prácticas. Además de tener nociones de cómo usar Git y Github. Esto lo haremos a través de la creación de un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
 ## ¿Como probar en la nube?
 
