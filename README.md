@@ -12,7 +12,8 @@ una vez creado el repositorio inicial ci-cd crearemos el codespace:
 [Captura_repositorio_ci_cd][![image](https://github.com/Juanegana/p1-fork/assets/157055350/d016dac4-3cad-4362-810b-54a661ea15fd)
 ]
 Luego entramos en el codespace que creemos
-[donde_encontrar_codespace][https://github.com/Juanegana/p1/blob/main/fotos/donde_encontrar_codespace.png?raw=true]
+[donde_encontrar_codespace][![image](https://github.com/Juanegana/p1-fork/assets/157055350/04561784-d7dc-49b1-92a9-dd67c436dc88)
+]
 y finalmente entramos e el entorno terminal de ese codespace
 [interfaz_terminal][https://github.com/Juanegana/p1/blob/main/fotos/interfaz_terminal.png?raw=true]
 
