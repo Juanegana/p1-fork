@@ -32,5 +32,8 @@ git checkout -b feature/1
 git checkout main
 ```
 
-Podemos ver los resultados de aplicar estos comandos además de una breve explicación de para que sirven y de que significa las respuestas que hemos obtenido ![documento_comandos_git](https://github.com/Juanegana/p1-fork/blob/main/documentos/Entorno.pdf)
+Podemos ver los resultados de aplicar estos comandos además de una breve explicación de para que sirven y de que significa las respuestas que hemos obtenido ![documento_comando_git](https://github.com/Juanegana/p1-fork/blob/main/documentos/Git.pdf)
+
+## Entorno de desarrollo
+Por último, se pedía al alumno que preparase el ordenador con distintos programas y entornos que necesitaremos durante el desarrolo del curso esto lo podemos encontrar en el siguiente documento ![documento_entorno](https://github.com/Juanegana/p1-fork/blob/main/documentos/Entorno.pdf)
 
