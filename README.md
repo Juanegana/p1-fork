@@ -8,15 +8,16 @@ GitHub es una plataforma de desarrollo colaborativo que permite a los desarrolla
 
 Para comenzar tenemos que crear un repositorio donde se pueden realizar prácticas. Luego, crearemos un entorno de desarrollo (Codespace) para trabajar en una copia de la práctica utilizando el comando "clone", y se realiza un "fork" para hacer cambios sin alterar el repositorio original. Esto crea una versión independiente del repositorio original en nuestra propia cuenta de GitHub.
 
-una vez creado el repositorio inicial ci-cd crearemos el codespace: 
+#una vez creado el repositorio inicial ci-cd crearemos el codespace: 
 ![image](https://github.com/Juanegana/p1-fork/assets/157055350/d016dac4-3cad-4362-810b-54a661ea15fd)
 
-Luego entramos en el codespace que creemos
-[donde_encontrar_codespace][![image](https://github.com/Juanegana/p1-fork/assets/157055350/04561784-d7dc-49b1-92a9-dd67c436dc88)
-]
-y finalmente entramos e el entorno terminal de ese codespace
-[interfaz_terminal][![image](https://github.com/Juanegana/p1-fork/assets/157055350/a16eb13c-fe61-45f8-b5c3-8bd31088f363)
-]
+#Luego entramos en el codespace que creemos
+![image](https://github.com/Juanegana/p1-fork/assets/157055350/04561784-d7dc-49b1-92a9-dd67c436dc88)
+
+#y finalmente entramos e el entorno terminal de ese codespace
+[![image](https://github.com/Juanegana/p1-fork/assets/157055350/a16eb13c-fe61-45f8-b5c3-8bd31088f363)
+
+Una vez hagamos esto pasaremos a introducir una serie de comandos 
 
 ## Comandos git básicos
 
@@ -31,6 +32,4 @@ git checkout -b feature/1
 git checkout main
 ```
 
-## ¿Cómo escribir un README.md con formato?
-
-[Github Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+Podemos ver los resultados de aplicar estos comandos además de una breve explicación de para que sirven y de que significa las respuestas que hemos obtenido 
