@@ -32,5 +32,5 @@ git checkout -b feature/1
 git checkout main
 ```
 
-Podemos ver los resultados de aplicar estos comandos además de una breve explicación de para que sirven y de que significa las respuestas que hemos obtenido ![documento_comandos_git](https://github.com/Juanegana/p1-fork/assets/157055350/4ef34a03-6362-4e7a-84eb-f23237ced852)
+Podemos ver los resultados de aplicar estos comandos además de una breve explicación de para que sirven y de que significa las respuestas que hemos obtenido ![documento_comandos_git](https://github.com/Juanegana/p1-fork/blob/main/documentos/Entorno.pdf)
 
