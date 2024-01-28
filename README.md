@@ -3,7 +3,10 @@
 
 El objetivo de esta práctica es el de preparar el equipo del alumno para poder hacer las futuras prácticas. Además de tener nociones de cómo usar Git y Github. Esto lo haremos a través de la creación de un repositorio para empezar a usar [git](https://git-scm.com/) y Github
 
-## ¿Como probar en la nube?
+## Git y Github
+GitHub es una plataforma de desarrollo colaborativo que permite a los desarrolladores alojar y revisar código, así como gestionar proyectos y control de versiones usando Git.
+
+Para comenzar tenemos que crear un repositorio donde se pueden realizar prácticas. Luego, crearemos un entorno de desarrollo (Codespace) para trabajar en una copia de la práctica utilizando el comando "clone", y se realiza un "fork" para hacer cambios sin alterar el repositorio original. Esto crea una versión independiente del repositorio original en nuestra propia cuenta de GitHub.
 
 [Github-Codespaces](https://github.com/features/codespaces)
 
