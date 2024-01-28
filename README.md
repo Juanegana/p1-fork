@@ -9,7 +9,7 @@ GitHub es una plataforma de desarrollo colaborativo que permite a los desarrolla
 Para comenzar tenemos que crear un repositorio donde se pueden realizar prácticas. Luego, crearemos un entorno de desarrollo (Codespace) para trabajar en una copia de la práctica utilizando el comando "clone", y se realiza un "fork" para hacer cambios sin alterar el repositorio original. Esto crea una versión independiente del repositorio original en nuestra propia cuenta de GitHub.
 
 una vez creado el repositorio inicial ci-cd crearemos el codespace: 
-[foto_1][https://github.com/Juanegana/p1-fork/blob/main/fotos/Captura_repositorio_ci_cd.png?raw=true]
+[foto_1][https://github.com/Juanegana/p1/blob/main/fotos/Captura_repositorio_ci_cd.png?raw=true]
 
 ## Comandos git básicos
 
