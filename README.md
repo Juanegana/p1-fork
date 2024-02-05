@@ -14,7 +14,7 @@ Para comenzar tenemos que crear un repositorio donde se pueden realizar práctic
 ### Luego entramos en el codespace que creemos
 ![image](https://github.com/Juanegana/p1-fork/assets/157055350/04561784-d7dc-49b1-92a9-dd67c436dc88)
 
-### y finalmente entramos e el entorno terminal de ese codespace
+### y finalmente entramos en el entorno terminal de ese codespace
 ![image](https://github.com/Juanegana/p1-fork/assets/157055350/a16eb13c-fe61-45f8-b5c3-8bd31088f363)
 
 Una vez hagamos esto pasaremos a introducir una serie de comandos 
